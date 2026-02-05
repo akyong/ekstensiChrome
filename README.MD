@@ -2,6 +2,9 @@
 
 Extension ini dibuat untuk **mempermudah membuka dan menavigasi file PDF DOJ (Epstein Disclosures)** yang jumlahnya sangat banyak, dengan sistem **Next / Back** dan **shortcut keyboard (← →)**.
 
+DOWNLOAD di https://github.com/akyong/ekstensiChrome/blob/main/justice-pdf-navigator.crx
+cara installnya kalau bingung lihat youtube aja ya. sebenarnya ini buat aku sendiri biar enak lihat. 
+
 Extension **TIDAK mem-bypass sistem website**, hanya membantu navigasi file PDF setelah user mengakses website secara resmi.
 
 ---
